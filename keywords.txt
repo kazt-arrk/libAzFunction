@@ -1,0 +1,74 @@
+#######################################
+# Syntax Coloring Map libAzFuction
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AzFunction	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init	        	KEYWORD2
+driverInput	    	KEYWORD2
+driverOutput		KEYWORD2
+setParam	    	KEYWORD2
+readParam	    	KEYWORD2
+directDrive	    	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+MODE		LITERAL1
+STEPS		LITERAL1
+SPEED		LITERAL1
+START_RATE	LITERAL1
+STOP_RATE	LITERAL1
+
+RV_POS		LITERAL1
+FW_POS		LITERAL1
+RV_JOG_P	LITERAL1
+FW_JOG_P	LITERAL1
+R_IN11		LITERAL1
+R_IN10		LITERAL1
+R_IN9		LITERAL1
+R_IN8		LITERAL1
+ALM_RST		LITERAL1
+FREE		LITERAL1
+STOP		LITERAL1
+ZHOME		LITERAL1
+START		LITERAL1
+R_IN2		LITERAL1
+R_IN1		LITERAL1
+R_IN0		LITERAL1
+OFF		LITERAL1
+
+START_R		LITERAL1
+HOME_END	LITERAL1
+READY		LITERAL1
+INFO		LITERAL1
+ALM_A		LITERAL1
+SYS_BSY		LITERAL1
+MOVE		LITERAL1
+IN_POS		LITERAL1
+TLC		LITERAL1
+
+LRD_C_ON	LITERAL1
+LRD_STOP	LITERAL1
+LRD_HOME	LITERAL1
+LRD_RVS		LITERAL1
+LRD_FWD		LITERAL1
+LRD_START	LITERAL1
+LRD_M5		LITERAL1
+LRD_M4		LITERAL1
+LRD_M3		LITERAL1
+LRD_M2		LITERAL1
+LRD_M1		LITERAL1
+LRD_M0		LITERAL1
+LRD_OFF		LITERAL1
+
+LRD_MOVE	LITERAL1
+LRD_HOME_P	LITERAL1
+LRD_OFF		LITERAL1
